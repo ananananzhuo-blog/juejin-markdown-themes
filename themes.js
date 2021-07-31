@@ -8,7 +8,7 @@ const themes = {
     owner: 'ymeddmn',
     repo: 'juejin-markdown-theme-ananananzhuo',
     path: 'ananananzhuo.scss',
-    ref: '8832c5b',
+    ref: 'f8fa847',
     highlight: 'androidstudio',
   }
 };
