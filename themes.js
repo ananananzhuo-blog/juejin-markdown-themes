@@ -7,9 +7,9 @@ const themes = {
   juejin: {
     owner: 'xitu',
     repo: 'juejin-markdown-theme-default',
-    path: 'juejin.scss',
-    ref: '195cbb0',
-    highlight: 'juejin',
+    path: 'ananananzhuo.scss',
+    ref: '8832c5b',
+    highlight: 'androidstudio',
   },
   github: {
     owner: 'sindresorhus',
@@ -120,6 +120,13 @@ const themes = {
     ref: '83e8179',
     highlight: 'atom-one-light',
   },
+  ananananzhuo:{
+    owner: 'ymeddmn',
+    repo: 'juejin-markdown-theme-ananananzhuo',
+    path: 'ananananzhuo.scss',
+    ref: '8832c5b',
+    highlight: 'androidstudio',
+  }
 };
 
 export default themes;
